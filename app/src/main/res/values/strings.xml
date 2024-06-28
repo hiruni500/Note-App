@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoroutinesTutorial</string>
+    <string name="tvTitle">All  Notes</string>
+    <string name="btnAdd">Add Note</string>
+    <string name="alertTitle">Enter Todo Item:</string>
+
+</resources>
